@@ -56,10 +56,14 @@
   <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
   </p>
-  
+</details>
+
+<details> 
   <summary><b>💻 TryHackMe Profile Stats</b></summary>
   <br>
   <p align="center">
     <script src="https://tryhackme.com/badge/131140"></script>
   </p>
 </details>
+
+
