@@ -1,6 +1,7 @@
 **About Me!**
 
 - 👨🏽‍💻  Michele, 19 years old
+- I am Interested in: Programming & WebApps Security Testing
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about anything <href a="https://t.me/Michele0303">here</a>
 
@@ -45,6 +46,12 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Utils</kbd>
+    <br>
+    <br>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   </kbd>
 </p>
 
