@@ -1,6 +1,8 @@
 **About Me!**
 
 - 👨🏽‍💻  Michele, 19 years old
+- 🌱 I’m currently learning Solidity
+- 💬 Ask me about anything <href a="https://t.me/Michele0303">here</a>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -46,17 +48,12 @@
 </p>
 
 
-<!--
-**Michele0303/Michele0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/michele0303"><img alt="Michele0303's Github Stats" src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  </p>
+</details>
