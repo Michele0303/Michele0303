@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Michele, 19 years old
 - 🖥️	I'm interested in: Programming & Web Application Security 
 - 🌱 I’m currently learning Solidity
-- 💬 Ask me about anything <href a="https://t.me/Michele0303">here</a>
+- 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a>
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -61,7 +61,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
+    <a href="https://github.com/michele0303"><img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
   </p>
 </details>
 
