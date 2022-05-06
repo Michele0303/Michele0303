@@ -1,7 +1,7 @@
 **About Me!**
 
-- 👨🏽‍💻  Michele, 19 years old
-- I am Interested in: Programming & WebApps Security Testing
+- 👨🏽‍💻 Michele, 19 years old
+- 🖥️	I'm interested in: Programming & Web Application Security 
 - 🌱 I’m currently learning Solidity
 - 💬 Ask me about anything <href a="https://t.me/Michele0303">here</a>
 
