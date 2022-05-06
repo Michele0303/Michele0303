@@ -47,22 +47,13 @@
   </kbd>
 </p>
 
-
 <h2> Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
-  </p>
-</details>
-
-<details> 
-  <summary><b>💻 TryHackMe Profile Stats</b></summary>
-  <br>
-  <p align="center">
-    <script src="https://tryhackme.com/badge/131140"></script>
+    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
   </p>
 </details>
 
