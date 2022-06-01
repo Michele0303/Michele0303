@@ -57,7 +57,10 @@
   </kbd>
 </p>
 
-<h2> Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" style="width: 35px"> </h2>
+<h2> 
+  Stats (Expand to View)
+  <!-- <img width="50px" src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" /> -->
+</h2>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
