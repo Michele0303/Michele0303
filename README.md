@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Michele, 19 years old
 - 🖥️	I'm interested in Programming & Web Application Security 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a>
 
 <p style="display: inline-block;" align="center">
@@ -13,8 +13,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <!-- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> -->
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
