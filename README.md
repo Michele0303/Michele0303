@@ -1,8 +1,8 @@
 **About Me!**
 
 - 👨🏽‍💻 Michele, 19 years old
-- 🖥️	I'm interested in Programming & Web Application Security 
-- 🌱 I’m currently learning Golang
+- 🖥️	I'm interested in Programming & Web Application Security
+- 🌱 I’m currently learning <a href="https://go.dev/">Golang</a>
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
 <h2>Connect with me:</h2>
