@@ -3,7 +3,7 @@
 - 👨🏽‍💻 Michele, 19 years old
 - 🖥️	I'm interested in Programming & Web Application Security 
 - 🌱 I’m currently learning Golang
-- 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a>
+<!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
 <h2>Connect with me:</h2>
 <p style="display: inline-block;" align="left">
@@ -15,6 +15,7 @@
   </a>
 </p>
 
+<h2>Languages and Tools:</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
