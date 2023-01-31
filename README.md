@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <a href="https://go.dev/">Golang</a>
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
-<h2>Connect with me:</h2>
+<h2>🌳 Connect with me:</h2>
 <p style="display: inline-block;" align="left">
   <a href="https://www.linkedin.com/in/michele-fiori03/">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2>Languages and Tools:</h2>
+<h2>🔧 Languages and Tools:</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
@@ -68,17 +68,12 @@
   </kbd>
 </p>
 
-<h2> 
-  Stats (Expand to View)
-  <!-- <img width="50px" src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" /> -->
-</h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
+<h2>💻 Profile Stats</h2>
+<div>
   <p align="center">
-    <a href="https://github.com/michele0303"><img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
+    <a href="https://github.com/michele0303">
+      <img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&theme=tokyonight" height="192px"/></a>
   </p>
-</details>
+</div>
 
 
