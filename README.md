@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Michele, 20 years old
 - 🖥️	I'm interested in Programming & Web Application Security
-- 🌱 I’m currently learning <a href="https://go.dev/">Golang</a>
+- 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust🦀</a>
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
 <h2>🌳 Connect with me:</h2>
@@ -27,13 +27,14 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
@@ -41,7 +42,7 @@
     <br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
