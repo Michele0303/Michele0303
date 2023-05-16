@@ -75,7 +75,6 @@
 <div>
   
   <p align="center">
-    <!-- / -->
     <img src="https://tryhackme-badges.s3.amazonaws.com/Michele0303.png" alt="TryHackMe">
     <img style="height: 57px" src="https://www.hackthebox.com/badge/image/57896" alt="HackTheBox">
   </p>
