@@ -71,18 +71,30 @@
   </kbd>
 </p>
 
+<h2>📝 My Blog</h2>
+<div>
+
+  <ul>
+    <strong>
+    <li>
+      <a href="https://michele0303.github.io/posts/how-i-generated-endless-money-by-hacking-survey-apps/">
+        How I Generated Endless Money by Hacking Survey Apps
+      </a>
+    </li>
+    </strong>
+  <ul>
+  
+</div>
+
 <h2>💻 Profile Stats</h2>
 <div>
-  
+
   <p align="center">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Michele0303.png" alt="TryHackMe">
     <img style="height: 57px" src="https://www.hackthebox.com/badge/image/57896" alt="HackTheBox">
   </p>
-  
-  <p align="center">
-    <a href="https://github.com/michele0303">
-      <img src="https://github-readme-stats.vercel.app/api?username=michele0303&show_icons=true&theme=tokyonight" height="192px"/>
-    </a>
-  </p>
+
 </div>
+
+
 
