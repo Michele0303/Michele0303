@@ -3,8 +3,6 @@
 - 👨🏽‍💻 Michele, 20 years old
 - 🖥️	I'm interested in Programming & Web Application Security
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust🦀</a>
-<br>
-  <img src="https://komarev.com/ghpvc/?username=Michele0303&style=for-the-badge" />
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
 <h2>🌳 Connect with me:</h2>
@@ -92,9 +90,11 @@
 <div>
 
   <p align="center">
+    <img style="width: 20%; height: 57px" src="https://komarev.com/ghpvc/?username=Michele0303&style=for-the-badge" />
     <img src="https://tryhackme-badges.s3.amazonaws.com/Michele0303.png" alt="TryHackMe">
     <img style="height: 57px" src="https://www.hackthebox.com/badge/image/57896" alt="HackTheBox">
   </p>
+
 
 </div>
 
