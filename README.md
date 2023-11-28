@@ -100,8 +100,9 @@
 </div>
 
 <hr />
-<h1 align="center">Have some project ideas? <br> <a href="https://t.me/Michele0303">Contact Me!</a></h1>
+<h1 align="center">Have some project ideas? 🚀 <br> <a href="https://t.me/Michele0303">Contact Me! 📬</a></h1>
 <hr />
+
 
 
 
