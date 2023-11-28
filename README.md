@@ -97,9 +97,12 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/Michele0303.png" alt="TryHackMe">
     <img style="height: 57px" src="https://www.hackthebox.com/badge/image/57896" alt="HackTheBox">
   </p>
-
-
 </div>
+
+<hr />
+<h1 align="center">Have some project ideas? <br> <a href="https://t.me/Michele0303">Contact Me!</a></h1>
+<hr />
+
 
 
 
