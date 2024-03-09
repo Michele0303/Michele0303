@@ -1,6 +1,6 @@
 **About Me!**
 
-- 👨🏽‍💻 Michele, 20 years old
+- 👨🏽‍💻 Michele, 21 years old
 - 🖥️	I'm interested in Programming & Web Application Security
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/">Rust🦀</a>
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
