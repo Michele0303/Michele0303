@@ -94,8 +94,10 @@
     <img src="https://img.shields.io/github/stars/Michele0303?style=for-the-badge"/>
     <img src="https://img.shields.io/github/followers/Michele0303?style=for-the-badge">
     <br><br>
+    <!--
     <img src="https://tryhackme-badges.s3.amazonaws.com/Michele0303.png" alt="TryHackMe">
     <img style="height: 57px" src="https://www.hackthebox.com/badge/image/57896" alt="HackTheBox">
+    -->
   </p>
 </div>
 
