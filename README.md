@@ -84,6 +84,7 @@
   </kbd>
 </p>
 
+<!--
 <h2>📝 My Blog</h2>
 <div>
 
@@ -98,6 +99,7 @@
   <ul>
   
 </div>
+-->
 
 <h2>💻 Profile Stats</h2>
 <div>
