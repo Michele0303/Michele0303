@@ -4,7 +4,6 @@
 - 👨🏽‍💻 Michele, 21 years old
 - 🖥️ Interested in Programming & Web Application Security
 - 🌱 Currently learning <a href="https://go.dev/">Go</a>
-- 💭 Living the Indie Hacker Dream
 
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
 
