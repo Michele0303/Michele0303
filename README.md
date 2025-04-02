@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 Michele, 22 years old
 - 🖥️ Interested in Programming & Web Application Security
-- 🚩 CTF Player @ <a href="https://srdnlen.it/">Srdnlen</a>
+- 🚩 CTF Player at <a href="https://srdnlen.it/">Srdnlen</a>
 - 🌱 Currently learning <a href="https://go.dev/">Go</a>
 
 <!-- - 💬 Ask me about anything <a href="https://t.me/Michele0303">here</a> -->
