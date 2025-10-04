@@ -73,12 +73,6 @@
 
 
   </kbd>
-  <kbd>
-    <kbd>Utils</kbd>
-    <br>
-    <br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-  </kbd>
 </p>
 
 <!--
