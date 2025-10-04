@@ -48,6 +48,8 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   </kbd>
+    <br>
+  <br>
   <kbd>
     <kbd>Database</kbd>
     <br>
